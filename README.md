@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piguave" alt="piguave" /></a> </p>
 
-- 🔭 I’m currently working on **kruger Star**
+- 🔭 I’m currently working on **Innovus Software**
 
 - 📫 How to reach me **arielpiguave@gmail.com**
 
